@@ -65,7 +65,7 @@ def main():
     result = parallel_processing(n,m,data)
     
     for i in range(m):
-        print(result[i][0],print(result[i][1])
+        print(result[i][0],result[i][1])
         
         
 
